@@ -1,0 +1,15 @@
+id = "zed-extenstion"
+name = "puen extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["PuemMTH <puem.code@gmail.com>"]
+description = "My first extension, my name Tanapat Eiam-arj"
+repository = "https://github.com/PuemMTH/my-zed-extension"
+
+[grammars.gleam]
+repository = "https://github.com/gleam-lang/tree-sitter-gleam"
+commit = "58b7cac8fc14c92b0677c542610d8738c373fa81"
+
+[language_servers.zls]
+name = "zls"
+language = "Zig"
