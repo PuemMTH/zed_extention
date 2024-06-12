@@ -2,7 +2,7 @@ id = "zed-extenstion"
 name = "puen extension"
 version = "0.0.1"
 schema_version = 1
-authors = ["PuemMTH <puem.code@gmail.com>"]
+authors = ["PuemMTH <puem.mth@gmail.com>"]
 description = "My first extension, my name Tanapat Eiam-arj"
 repository = "https://github.com/PuemMTH/my-zed-extension"
 
